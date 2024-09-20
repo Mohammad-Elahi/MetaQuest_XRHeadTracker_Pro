@@ -1,0 +1,254 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: arm64-v8a",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -300670519
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON A:\\Mohammad\\XRProject- Android head tracking\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\.cxx\\Debug\\f5b236k2\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1493733706
+  },
+  {
+    "level_": 0,
+    "message_": "- a file changed",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1900038090
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2024114276
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -315966397
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules\\headers (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1965477109
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules\\headers\\include (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1313088207
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules\\headers\\include\\openxr (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -856840181
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules\\openxr_loader (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1380730813
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules\\openxr_loader\\libs (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 292644753
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules\\openxr_loader\\libs\\android.arm64-v8a (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -854817706
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules\\openxr_loader\\libs\\android.armeabi-v7a (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1903057556
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules\\openxr_loader\\libs\\android.x86 (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1604802152
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules\\openxr_loader\\libs\\android.x86_64 (LAST_MODIFIED_CHANGED)",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -179612331
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\Mohammad.Elahi\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.0.0\\\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\\\cli-2.0.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  cmake ^\n  --platform ^\n  android ^\n  --abi ^\n  arm64-v8a ^\n  --os-version ^\n  26 ^\n  --stl ^\n  c++_static ^\n  --ndk-version ^\n  27 ^\n  --output ^\n  \"C:\\\\Users\\\\MOHAMM~1.ELA\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging7533496913617020406\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\Mohammad.Elahi\\\\.gradle\\\\caches\\\\transforms-3\\\\d88a0c0ce9d00191a3a2fe3115bb6df7\\\\transformed\\\\openxr_loader_for_android-1.1.36\\\\prefab\"\n",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 463825748
+  },
+  {
+    "level_": 0,
+    "message_": "keeping json folder \u0027A:\\Mohammad\\XRProject- Android head tracking\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\.cxx\\Debug\\f5b236k2\\arm64-v8a\u0027 but regenerating project",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -575496098
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\Mohammad.Elahi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HA:\\\\Mohammad\\\\XRProject- Android head tracking\\\\Samples\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d26\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-26\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Mohammad.Elahi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.0.11902837\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Mohammad.Elahi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.0.11902837\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Mohammad.Elahi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.0.11902837\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Mohammad.Elahi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dA:\\\\Mohammad\\\\XRProject- Android head tracking\\\\Samples\\\\XrSamples\\\\XrBodyFaceEyeSocial\\\\Projects\\\\Android\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\f5b236k2\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dA:\\\\Mohammad\\\\XRProject- Android head tracking\\\\Samples\\\\XrSamples\\\\XrBodyFaceEyeSocial\\\\Projects\\\\Android\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\f5b236k2\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dA:\\\\Mohammad\\\\XRProject- Android head tracking\\\\Samples\\\\XrSamples\\\\XrBodyFaceEyeSocial\\\\Projects\\\\Android\\\\.cxx\\\\Debug\\\\f5b236k2\\\\prefab\\\\arm64-v8a\\\\prefab\" ^\n  \"-BA:\\\\Mohammad\\\\XRProject- Android head tracking\\\\Samples\\\\XrSamples\\\\XrBodyFaceEyeSocial\\\\Projects\\\\Android\\\\.cxx\\\\Debug\\\\f5b236k2\\\\arm64-v8a\" ^\n  -GNinja\n",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1505781838
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\Mohammad.Elahi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HA:\\\\Mohammad\\\\XRProject- Android head tracking\\\\Samples\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d26\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-26\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Mohammad.Elahi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.0.11902837\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Mohammad.Elahi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.0.11902837\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Mohammad.Elahi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.0.11902837\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Mohammad.Elahi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dA:\\\\Mohammad\\\\XRProject- Android head tracking\\\\Samples\\\\XrSamples\\\\XrBodyFaceEyeSocial\\\\Projects\\\\Android\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\f5b236k2\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dA:\\\\Mohammad\\\\XRProject- Android head tracking\\\\Samples\\\\XrSamples\\\\XrBodyFaceEyeSocial\\\\Projects\\\\Android\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\f5b236k2\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dA:\\\\Mohammad\\\\XRProject- Android head tracking\\\\Samples\\\\XrSamples\\\\XrBodyFaceEyeSocial\\\\Projects\\\\Android\\\\.cxx\\\\Debug\\\\f5b236k2\\\\prefab\\\\arm64-v8a\\\\prefab\" ^\n  \"-BA:\\\\Mohammad\\\\XRProject- Android head tracking\\\\Samples\\\\XrSamples\\\\XrBodyFaceEyeSocial\\\\Projects\\\\Android\\\\.cxx\\\\Debug\\\\f5b236k2\\\\arm64-v8a\" ^\n  -GNinja\n",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1626160851
+  }
+]

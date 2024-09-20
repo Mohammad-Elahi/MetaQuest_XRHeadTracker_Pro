@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:2:1-53:12
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:2:1-53:12
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:2:1-53:12
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:2:1-53:12
+MERGED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:1:1-29:12
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:2:1-53:12
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:2:1-53:12
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:3:2-52
+		INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+		INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+	android:versionName
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:5:2-27
+		INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+		INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+	xmlns:android
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:4:2-25
+		INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+		INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+	android:installLocation
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:6:2-32
+uses-feature#com.oculus.software.body_tracking
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:8:2-67
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:8:16-64
+uses-permission#com.oculus.permission.BODY_TRACKING
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:9:2-72
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:9:19-69
+uses-feature#oculus.software.eye_tracking
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:11:2-86
+	android:required
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:11:60-83
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:11:16-59
+uses-permission#com.oculus.permission.EYE_TRACKING
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:12:2-71
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:12:19-68
+uses-feature#oculus.software.face_tracking
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:14:2-87
+	android:required
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:14:61-84
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:14:16-60
+uses-permission#com.oculus.permission.FACE_TRACKING
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:15:2-72
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:15:19-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:18:2-68
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:18:19-65
+uses-feature#0x00030001
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:21:2-75
+	android:glEsVersion
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:21:16-48
+	android:required
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:21:49-72
+uses-feature#oculus.software.handtracking
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:24:2-87
+	android:required
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:24:60-84
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:24:16-59
+uses-permission#com.oculus.permission.HAND_TRACKING
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:25:2-72
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:25:19-69
+application
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:27:2-52:16
+	android:label
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:29:3-35
+	android:allowBackup
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:28:3-30
+activity#com.oculus.xrsamples.xrbodyfaceeyesocial.MainActivity
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:35:3-51:14
+	android:screenOrientation
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:40:4-41
+	android:label
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:38:4-36
+	android:launchMode
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:39:4-35
+	android:exported
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:42:4-27
+	android:configChanges
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:41:4-105
+	android:theme
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:37:4-68
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:36:4-72
+meta-data#android.app.lib_name
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:44:4-89
+	android:value
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:44:51-86
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:44:15-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:org.khronos.openxr.intent.category.IMMERSIVE_HMD
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:46:4-50:20
+action#android.intent.action.MAIN
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:47:5-57
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:47:13-54
+category#org.khronos.openxr.intent.category.IMMERSIVE_HMD
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:48:5-81
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:48:15-78
+category#android.intent.category.LAUNCHER
+ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:49:5-65
+	android:name
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:49:15-62
+uses-sdk
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+MERGED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:11:3-72
+MERGED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:11:3-72
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+		INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+		ADDED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+		INJECTED from A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml
+uses-permission#org.khronos.openxr.permission.OPENXR
+ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:13:3-74
+	android:name
+		ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:13:20-71
+uses-permission#org.khronos.openxr.permission.OPENXR_SYSTEM
+ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:14:3-81
+	android:name
+		ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:14:20-78
+queries
+ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:16:3-27:13
+provider
+ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:18:5-114
+	android:authorities
+		ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:18:15-111
+intent#action:name:org.khronos.openxr.OpenXRRuntimeService
+ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:21:5-23:14
+action#org.khronos.openxr.OpenXRRuntimeService
+ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:22:7-72
+	android:name
+		ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:22:15-69
+intent#action:name:org.khronos.openxr.OpenXRApiLayerService
+ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:24:5-26:14
+action#org.khronos.openxr.OpenXRApiLayerService
+ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:25:7-73
+	android:name
+		ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.36] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-3\d88a0c0ce9d00191a3a2fe3115bb6df7\transformed\openxr_loader_for_android-1.1.36\AndroidManifest.xml:25:15-70

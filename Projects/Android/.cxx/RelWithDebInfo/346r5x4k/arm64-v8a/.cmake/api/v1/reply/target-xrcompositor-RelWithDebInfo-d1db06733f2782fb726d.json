@@ -1,0 +1,178 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "A:/Mohammad/XRProject- Android head tracking/Samples/XrSamples/XrBodyFaceEyeSocial/Projects/Android/build/intermediates/cxx/RelWithDebInfo/346r5x4k/obj/arm64-v8a/libxrcompositor.so"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"XrSamples/XrCompositor_NativeActivity/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-isystem C:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/17.2.4988734/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=26 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "xrcompositor_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "A:/Mohammad/XRProject- Android head tracking/Samples/XrSamples/XrCompositor_NativeActivity/Src"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "A:/Mohammad/XRProject- Android head tracking/Samples/SampleXrFramework/../1stParty/OVR/Include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "A:/Mohammad/XRProject- Android head tracking/Samples/SampleXrFramework/../3rdParty/khronos/openxr/OpenXR-SDK/src/common"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "A:/Mohammad/XRProject- Android head tracking/Samples/SampleXrFramework/../../OpenXR"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/17.2.4988734/sources/android/native_app_glue"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Users/Mohammad.Elahi/.gradle/caches/transforms-3/d88a0c0ce9d00191a3a2fe3115bb6df7/transformed/openxr_loader_for_android-1.1.36/prefab/modules/headers/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/17.2.4988734/sysroot"
+			}
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "app_glue::@e4f153922b2cebb3c0ac"
+		}
+	],
+	"id" : "xrcompositor::@4f3ac7503728f6ce45cd",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -nostdlib++ --sysroot C:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/17.2.4988734/platforms/android-26/arch-arm64 -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -LC:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/17.2.4988734/sources/cxx-stl/llvm-libc++/libs/arm64-v8a -Wl,--no-undefined -Wl,-z,noexecstack -Qunused-arguments -Wl,-z,relro -Wl,-z,now   -u ANativeActivity_onCreate",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-landroid",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lEGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lGLESv3",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-llog",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "SampleXrFramework\\libapp_glue.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab\\modules\\openxr_loader\\libs\\android.arm64-v8a\\libopenxr_loader.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-latomic -lm",
+				"role" : "libraries"
+			}
+		],
+		"language" : "C",
+		"sysroot" : 
+		{
+			"path" : "C:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/17.2.4988734/sysroot"
+		}
+	},
+	"name" : "xrcompositor",
+	"nameOnDisk" : "libxrcompositor.so",
+	"paths" : 
+	{
+		"build" : "XrSamples/XrCompositor_NativeActivity",
+		"source" : "XrSamples/XrCompositor_NativeActivity"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "XrSamples/XrCompositor_NativeActivity/Src/XrCompositor_NativeActivity.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "MODULE_LIBRARY"
+}

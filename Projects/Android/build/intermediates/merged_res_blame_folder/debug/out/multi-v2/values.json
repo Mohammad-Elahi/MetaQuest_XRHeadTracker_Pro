@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.oculus.xrsamples.xrbodyfaceeyesocial-mergeDebugResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

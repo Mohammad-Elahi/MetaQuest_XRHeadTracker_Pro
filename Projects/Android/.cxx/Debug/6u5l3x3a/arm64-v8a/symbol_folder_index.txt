@@ -1,0 +1,1 @@
+A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\cxx\Debug\6u5l3x3a\obj\arm64-v8a

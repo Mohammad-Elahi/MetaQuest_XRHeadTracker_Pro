@@ -1,0 +1,8 @@
+ninja: Entering directory `C:\Users\Mohammad.Elahi\Desktop\XRProject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\.cxx\Debug\3i1j212w\arm64-v8a'
+[1/7] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/Render/Framebuffer.cpp.o
+[2/7] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/Input/HandMaskRenderer.cpp.o
+[3/7] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/Input/HandRenderer.cpp.o
+[4/7] Building CXX object XrSamples/XrBodyFaceEyeSocial/CMakeFiles/xrbodyfaceeyesocial.dir/Src/main.cpp.o
+[5/7] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/XrApp.cpp.o
+[6/7] Linking CXX static library SampleXrFramework\libsamplexrframework.a
+[7/7] Linking CXX shared module ..\..\..\..\build\intermediates\cxx\Debug\3i1j212w\obj\arm64-v8a\libxrbodyfaceeyesocial.so
