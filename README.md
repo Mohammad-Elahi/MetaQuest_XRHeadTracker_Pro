@@ -1,11 +1,12 @@
-# OpenXR Body, Face, Eye Social Sample
+# XR Head Tracker Pro 
 
 ## Overview
-The extensions XR_FB_body_tracking, XR_FB_eye_tracking_social, and XR_FB_face_tracking2 are designed to work together to support querying devices for information associated with the body, allowing the rendering of a user's avatar.
+XR Head Tracker Pro is a professional research tool developed at the Vodafone Chair for Mobile Communications Systems at TU Dresden. This Android NDK C++ application leveraging the Meta OpenXR SDK to capture and log head-tracking data from Meta Quest headsets, featuring real-time Passthrough visualization. This app collects head tracking information while allowing users to maintain awareness of their physical surroundings through the Quest's Passthrough technology. The application stores motion data as a CSV file directly on the device, providing researchers and developers with easy access to movement analysis while maintaining visual context of the real-world environment.
+Key Features:
+Real-time head tracking 
+Passthrough visualization 
+CSV data export
+Voice Annotation
 
-XR_FB_body_tracking allows applications to get poses of body joints. XR_FB_face_tracking2 enables applications to capture facial expressions. XR_FB_eye_tracking_social provides applications with eye-tracking information for social/avatar use cases.
-
-## The Sample
-This sample demonstrates how Body Tracking, Eye Tracking, and Face Tracking work together.
-![Body Tracking](images/body_tracking.png) The two cones point to the direction the eyes are looking at. The skeleton shows the tracked body movement.
-Expressions are detected and displayed in the text box, which defaults to "neutral expression".
+For technical support or inquiries:
+mohammad.elahi@mailbox.tu-dresden.de# MetaQuest_XRHeadTracker_Pro
