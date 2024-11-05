@@ -5,10 +5,10 @@
 XR Head Tracker Pro is a professional research tool developed at the Vodafone Chair for Mobile Communications Systems at TU Dresden. This Android NDK C++ application leverages the [Meta OpenXR SDK](https://developers.meta.com/horizon/downloads/package/oculus-openxr-mobile-sdk/) to capture and log head-tracking data from Meta Quest headsets, featuring real-time Passthrough visualization. This app collects head-tracking information while allowing users to maintain awareness of their physical surroundings through the Quest's Passthrough technology. The application stores motion data as a CSV file directly on the device, providing researchers and developers with easy access to movement analysis while maintaining the visual context of the real-world environment.
 
 ## Key Features:
-1. Real-time head tracking, 
-2. Passthrough visualization, 
-3. CSV data export,
-4. Voice Annotation,
+1. Real-time head tracking
+2. Passthrough visualization
+3. CSV data export
+4. Voice Annotation
 
 For technical support or inquiries:
 mohammad.elahi@mailbox.tu-dresden.de
