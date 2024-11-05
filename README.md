@@ -18,3 +18,4 @@ mohammad.elahi@mailbox.tu-dresden.de# MetaQuest_XRHeadTracker_Pro
 An Android NDK C++ application leveraging the Meta OpenXR Mobile SDK to capture and log head-tracking data from Meta Quest headsets. This app collects head tracking information and stores it as a CSV file directly on the device, providing researchers and developers with easy access to motion data for analysis or further processing
 
 >>>>>>> 79ffab7b88671ba6282d90b5f7abda40c11e26ec
+# MetaQuest_XRHeadTracker_Pro
