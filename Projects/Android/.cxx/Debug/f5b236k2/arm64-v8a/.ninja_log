@@ -1,0 +1,22 @@
+# ninja log v5
+52	1375	7489028258835061	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/GuiSys.cpp.o	27d18ac5451a4d35
+22	118	7489028246260913	SampleXrFramework/CMakeFiles/app_glue.dir/280687d481d97e5c43439ef3d0ee844e/native_app_glue/android_native_app_glue.c.o	12cfc66128af98d8
+1	128	7489028246361186	3rdParty/CMakeFiles/stb.dir/stb/src/stb_image_write.c.o	4c2447c0efd484c8
+4	274	7489028247794199	3rdParty/CMakeFiles/stb.dir/stb/src/stb_vorbis.c.o	159117686b875f20
+38	1022	7489028255310033	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/DefaultComponent.cpp.o	b34dc5a622caac63
+27	974	7489028254833448	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/ActionComponents.cpp.o	ec0bf5f2235b050c
+72	938	7489028254477422	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/Input/ArmModel.cpp.o	51dcf0eae222f1f3
+35	618	7489028251280564	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/Fader.cpp.o	46fb72b9ac1628b5
+41	1879	7489028263747074	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/MetaDataManager.cpp.o	5a5040d72a56af89
+6	307	7489028248073629	3rdParty/CMakeFiles/stb.dir/stb/src/stb_image.c.o	7014eabae9b608fc
+59	961	7489028254708088	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/SoundLimiter.cpp.o	743baeff07ef3e27
+44	996	7489028255018965	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/Input/AxisRenderer.cpp.o	133bbcad105f7cb3
+30	1007	7489028255144650	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/AnimComponents.cpp.o	c79b17cb3c4fa210
+48	1016	7489028255234827	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/Reflection.cpp.o	a753ff37bfb287e1
+25	1041	7489028255493823	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/CollisionPrimitive.cpp.o	dc535862be3917db
+77	1092	7489028255987842	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/VRMenuEventHandler.cpp.o	5ac703d6a0c345a
+32	1144	7489028256501060	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/GazeCursor.cpp.o	19628792109a2c80
+63	1168	7489028256762369	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/ReflectionData.cpp.o	e4843dd3387a23d8
+55	1303	7489028258068630	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/VRMenu.cpp.o	344d6523ff0f9b0b
+81	1337	7489028258433914	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/VRMenuMgr.cpp.o	d1651adbb9aea7ed
+67	1680	7489028261806143	SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/VRMenuObject.cpp.o	275d5bccc4e6e2be

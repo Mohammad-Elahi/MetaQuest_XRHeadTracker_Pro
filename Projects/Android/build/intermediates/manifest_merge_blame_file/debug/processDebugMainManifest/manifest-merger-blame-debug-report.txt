@@ -1,0 +1,215 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mohammadelahi.xrheadtrackerpro"
+4    android:installLocation="auto"
+5    android:versionCode="2"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="29"
+10        android:targetSdkVersion="32" />
+11
+12    <uses-feature
+12-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:9:2-109
+13        android:name="android.hardware.vr.headtracking"
+13-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:9:16-63
+14        android:required="true"
+14-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:9:84-107
+15        android:version="1" />
+15-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:9:64-83
+16
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:10:2-64
+17-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:10:19-61
+18
+19    <uses-feature android:name="com.oculus.software.body_tracking" />
+19-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:11:2-67
+19-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:11:16-64
+20
+21    <uses-permission android:name="com.oculus.permission.BODY_TRACKING" />
+21-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:12:2-72
+21-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:12:19-69
+22
+23    <uses-feature
+23-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:13:2-86
+24        android:name="oculus.software.eye_tracking"
+24-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:13:16-59
+25        android:required="true" />
+25-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:13:60-83
+26
+27    <uses-permission android:name="com.oculus.permission.EYE_TRACKING" />
+27-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:14:2-71
+27-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:14:19-68
+28
+29    <uses-feature
+29-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:15:2-87
+30        android:name="oculus.software.face_tracking"
+30-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:15:16-60
+31        android:required="true" />
+31-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:15:61-84
+32
+33    <uses-permission android:name="com.oculus.permission.FACE_TRACKING" />
+33-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:16:2-72
+33-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:16:19-69
+34    <!-- Tell the system this app can handle audio-driven face tracking -->
+35    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+35-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:18:2-68
+35-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:18:19-65
+36    <!-- Tell the system this app requires OpenGL ES 3.1. -->
+37    <uses-feature
+37-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:20:2-75
+38        android:glEsVersion="0x00030001"
+38-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:20:16-48
+39        android:required="true" />
+39-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:20:49-72
+40    <!-- Tell the system this app can handle tracked remotes and hands -->
+41    <uses-feature
+41-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:22:2-87
+42        android:name="oculus.software.handtracking"
+42-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:22:16-59
+43        android:required="false" />
+43-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:22:60-84
+44
+45    <uses-permission android:name="com.oculus.permission.HAND_TRACKING" />
+45-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:23:2-72
+45-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:23:19-69
+46
+47    <uses-feature
+47-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:25:2-87
+48        android:name="com.oculus.feature.PASSTHROUGH"
+48-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:25:16-61
+49        android:required="true" />
+49-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:25:62-85
+50
+51    <uses-permission android:name="com.oculus.permission.USE_SCENE" />
+51-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:26:2-68
+51-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:26:19-65
+52    <uses-permission android:name="com.oculus.permission.BOUNDARY_VISIBILITY" />
+52-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:27:2-78
+52-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:27:19-75
+53    <uses-permission android:name="com.oculus.permission.USE_ANCHOR_API" />
+53-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:28:2-73
+53-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:28:19-70
+54    <uses-permission android:name="com.oculus.permission.HMD_CONNECTION" />
+54-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:29:2-73
+54-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:29:19-70
+55    <uses-permission android:name="com.oculus.permission.VR_CONNECTION" />
+55-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:30:2-72
+55-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:30:19-69
+56    <uses-permission android:name="com.oculus.permission.VR_FEATURES" />
+56-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:31:2-70
+56-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:31:19-67
+57    <uses-permission android:name="org.khronos.openxr.permission.OPENXR" />
+57-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:13:3-74
+57-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:13:20-71
+58    <uses-permission android:name="org.khronos.openxr.permission.OPENXR_SYSTEM" />
+58-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:14:3-81
+58-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:14:20-78
+59
+60    <queries>
+60-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:16:3-27:13
+61
+62        <!-- to talk to the broker -->
+63        <provider android:authorities="org.khronos.openxr.runtime_broker;org.khronos.openxr.system_runtime_broker" />
+63-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:18:5-114
+63-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:18:15-111
+64
+65        <!-- so client-side code of runtime/layers can talk to their service sides -->
+66        <intent>
+66-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:21:5-23:14
+67            <action android:name="org.khronos.openxr.OpenXRRuntimeService" />
+67-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:22:7-72
+67-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:22:15-69
+68        </intent>
+69        <intent>
+69-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:24:5-26:14
+70            <action android:name="org.khronos.openxr.OpenXRApiLayerService" />
+70-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:25:7-73
+70-->[org.khronos.openxr:openxr_loader_for_android:1.1.41] C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\AndroidManifest.xml:25:15-70
+71        </intent>
+72    </queries>
+73
+74    <application
+74-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:34:2-76:16
+75        android:allowBackup="true"
+75-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:35:3-29
+76        android:debuggable="true"
+77        android:extractNativeLibs="false"
+78        android:icon="@mipmap/ic_launcher"
+78-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:37:3-37
+79        android:label="@string/app_name"
+79-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:36:3-35
+80        android:requestLegacyExternalStorage="true"
+80-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:40:3-46
+81        android:roundIcon="@mipmap/ic_launcher_round"
+81-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:38:3-48
+82        android:supportsRtl="true"
+82-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:39:3-29
+83        android:testOnly="true" >
+84        <meta-data
+84-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:42:3-45:6
+85            android:name="com.oculus.supportedDevices"
+85-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:43:4-46
+86            android:value="quest|quest2|questpro|quest3|quest3s" />
+86-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:44:4-56
+87        <meta-data
+87-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:46:3-48:27
+88            android:name="com.oculus.vr.focusaware"
+88-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:47:4-43
+89            android:value="true" />
+89-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:48:4-24
+90        <!--
+91             launchMode is set to singleTask because there should never be multiple copies of the
+92            app running
+93        -->
+94        <!--
+95             Theme.Black.NoTitleBar.Fullscreen gives solid black instead of a (bad stereoscopic)
+96            gradient on app transition
+97        -->
+98        <activity
+98-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:53:3-75:14
+99            android:name="com.oculus.xrsamples.xrbodyfaceeyesocial.MainActivity"
+99-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:54:4-72
+100            android:configChanges="screenSize|screenLayout|orientation|keyboardHidden|keyboard|navigation|uiMode"
+100-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:60:4-105
+101            android:excludeFromRecents="false"
+101-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:59:4-38
+102            android:exported="true"
+102-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:61:4-27
+103            android:label="@string/app_name"
+103-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:56:4-36
+104            android:launchMode="singleTask"
+104-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:57:4-35
+105            android:screenOrientation="landscape"
+105-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:58:4-41
+106            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+106-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:55:4-68
+107
+108            <!-- Tell NativeActivity the name of the .so -->
+109            <meta-data
+109-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:64:4-67:7
+110                android:name="android.app.lib_name"
+110-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:65:5-40
+111                android:value="xrbodyfaceeyesocial" />
+111-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:66:5-40
+112            <!-- This filter lets the apk show up as a launchable icon -->
+113            <intent-filter>
+113-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:69:4-74:20
+114                <action android:name="android.intent.action.MAIN" />
+114-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:70:5-57
+114-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:70:13-54
+115
+116                <category android:name="org.khronos.openxr.intent.category.IMMERSIVE_HMD" />
+116-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:71:5-81
+116-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:71:15-78
+117                <category android:name="android.intent.category.LAUNCHER" />
+117-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:72:5-65
+117-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:72:15-62
+118                <category android:name="com.oculus.intent.category.*" />
+118-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:73:5-61
+118-->A:\Mohammad\Android\XRProject- 4.11\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\AndroidManifest.xml:73:15-58
+119            </intent-filter>
+120        </activity>
+121    </application>
+122
+123</manifest>

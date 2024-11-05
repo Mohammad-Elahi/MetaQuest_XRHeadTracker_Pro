@@ -1,0 +1,15 @@
+<libraries>
+  <library
+      name="org.khronos.openxr:openxr_loader_for_android:1.1.41@aar"
+      jars="C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41\jars\classes.jar"
+      resolved="org.khronos.openxr:openxr_loader_for_android:1.1.41"
+      folder="C:\Users\Mohammad.Elahi\.gradle\caches\transforms-4\bd05a00a237c14c43f0c4fabb9c2fc44\transformed\openxr_loader_for_android-1.1.41"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

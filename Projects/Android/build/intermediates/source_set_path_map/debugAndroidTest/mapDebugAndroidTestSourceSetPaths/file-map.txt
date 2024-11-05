@@ -1,0 +1,4 @@
+com.mohammadelahi.xrheadtrackerpro.test-androidTest-0 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\generated\res\resValues\androidTest\debug
+com.mohammadelahi.xrheadtrackerpro.test-mergeDebugAndroidTestResources-1 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.mohammadelahi.xrheadtrackerpro.test-mergeDebugAndroidTestResources-2 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.mohammadelahi.xrheadtrackerpro.test-debugAndroidTest-3 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

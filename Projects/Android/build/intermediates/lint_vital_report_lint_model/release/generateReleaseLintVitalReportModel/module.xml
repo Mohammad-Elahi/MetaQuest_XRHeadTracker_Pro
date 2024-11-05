@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android"
+    name=":"
+    type="APP"
+    maven=":XrBodyFaceEyeSocial:unspecified"
+    agpVersion="8.6.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\Mohammad.Elahi\AppData\Local\Android\Sdk\platforms\android-32\android.jar;C:\Users\Mohammad.Elahi\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

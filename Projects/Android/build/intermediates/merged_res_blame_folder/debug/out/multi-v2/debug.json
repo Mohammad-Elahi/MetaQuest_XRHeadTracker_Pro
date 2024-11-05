@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.oculus.xrsamples.xrbodyfaceeyesocial-merged_res-5:/values_values.arsc.flat",
+            "outputFile": "C:\\Users\\Mohammad.Elahi\\.gradle\\daemon\\7.5\\com.oculus.xrsamples.xrbodyfaceeyesocial-merged_res-5:\\values_values.arsc.flat",
             "map": [
                 {
                     "source": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\res\\values\\strings.xml",
@@ -11,6 +11,21 @@
                         "startOffsets": "55",
                         "endColumns": "63",
                         "endOffsets": "114"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.oculus.xrsamples.xrbodyfaceeyesocial-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
                     }
                 }
             ]

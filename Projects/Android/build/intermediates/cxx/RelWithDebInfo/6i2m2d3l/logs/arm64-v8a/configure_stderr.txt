@@ -6,7 +6,7 @@ CMake Warning in XrSamples/XrHandsAndControllers/CMakeLists.txt:
   has 222 characters.  The maximum full path to an object file is 250
   characters (see CMAKE_OBJECT_PATH_MAX).  Object file
 
-    Src/EnvironmentRenderer.cpp.o
+    Src/ActionSetDisplayPanel.cpp.o
 
   cannot be safely placed under this directory.  The build may not work
   correctly.

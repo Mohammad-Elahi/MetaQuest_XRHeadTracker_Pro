@@ -1,0 +1,48 @@
+ninja: Entering directory `A:\Mohammad\XRProject- Android head tracking\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\.cxx\Debug\f5b236k2\arm64-v8a'
+[1/84] Building C object 3rdParty/CMakeFiles/minizip.dir/minizip/src/zip.c.o
+FAILED: 3rdParty/CMakeFiles/minizip.dir/minizip/src/zip.c.o 
+C:\Users\Mohammad.Elahi\AppData\Local\Android\Sdk\ndk\27.0.11902837\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/27.0.11902837/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -I"A:/Mohammad/XRProject- Android head tracking/Samples/3rdParty/minizip/src" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -Wno-shadow -Wno-unused-command-line-argument -marm -mfpu=neon -MD -MT 3rdParty/CMakeFiles/minizip.dir/minizip/src/zip.c.o -MF 3rdParty\CMakeFiles\minizip.dir\minizip\src\zip.c.o.d -o 3rdParty/CMakeFiles/minizip.dir/minizip/src/zip.c.o -c "A:/Mohammad/XRProject- Android head tracking/Samples/3rdParty/minizip/src/zip.c"
+clang: error: unsupported option '-mno-thumb' for target 'aarch64-none-linux-android26'
+clang: error: unsupported option '-mfpu=' for target 'aarch64-none-linux-android26'
+[2/84] Building C object 3rdParty/CMakeFiles/minizip.dir/minizip/src/miniunz.c.o
+FAILED: 3rdParty/CMakeFiles/minizip.dir/minizip/src/miniunz.c.o 
+C:\Users\Mohammad.Elahi\AppData\Local\Android\Sdk\ndk\27.0.11902837\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/27.0.11902837/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -I"A:/Mohammad/XRProject- Android head tracking/Samples/3rdParty/minizip/src" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -Wno-shadow -Wno-unused-command-line-argument -marm -mfpu=neon -MD -MT 3rdParty/CMakeFiles/minizip.dir/minizip/src/miniunz.c.o -MF 3rdParty\CMakeFiles\minizip.dir\minizip\src\miniunz.c.o.d -o 3rdParty/CMakeFiles/minizip.dir/minizip/src/miniunz.c.o -c "A:/Mohammad/XRProject- Android head tracking/Samples/3rdParty/minizip/src/miniunz.c"
+clang: error: unsupported option '-mno-thumb' for target 'aarch64-none-linux-android26'
+clang: error: unsupported option '-mfpu=' for target 'aarch64-none-linux-android26'
+[3/84] Building C object 3rdParty/CMakeFiles/minizip.dir/minizip/src/ioapi.c.o
+FAILED: 3rdParty/CMakeFiles/minizip.dir/minizip/src/ioapi.c.o 
+C:\Users\Mohammad.Elahi\AppData\Local\Android\Sdk\ndk\27.0.11902837\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/27.0.11902837/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -I"A:/Mohammad/XRProject- Android head tracking/Samples/3rdParty/minizip/src" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -Wno-shadow -Wno-unused-command-line-argument -marm -mfpu=neon -MD -MT 3rdParty/CMakeFiles/minizip.dir/minizip/src/ioapi.c.o -MF 3rdParty\CMakeFiles\minizip.dir\minizip\src\ioapi.c.o.d -o 3rdParty/CMakeFiles/minizip.dir/minizip/src/ioapi.c.o -c "A:/Mohammad/XRProject- Android head tracking/Samples/3rdParty/minizip/src/ioapi.c"
+clang: error: unsupported option '-mno-thumb' for target 'aarch64-none-linux-android26'
+clang: error: unsupported option '-mfpu=' for target 'aarch64-none-linux-android26'
+[4/84] Building C object 3rdParty/CMakeFiles/minizip.dir/minizip/src/mztools.c.o
+FAILED: 3rdParty/CMakeFiles/minizip.dir/minizip/src/mztools.c.o 
+C:\Users\Mohammad.Elahi\AppData\Local\Android\Sdk\ndk\27.0.11902837\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/27.0.11902837/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -I"A:/Mohammad/XRProject- Android head tracking/Samples/3rdParty/minizip/src" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -Wno-shadow -Wno-unused-command-line-argument -marm -mfpu=neon -MD -MT 3rdParty/CMakeFiles/minizip.dir/minizip/src/mztools.c.o -MF 3rdParty\CMakeFiles\minizip.dir\minizip\src\mztools.c.o.d -o 3rdParty/CMakeFiles/minizip.dir/minizip/src/mztools.c.o -c "A:/Mohammad/XRProject- Android head tracking/Samples/3rdParty/minizip/src/mztools.c"
+clang: error: unsupported option '-mno-thumb' for target 'aarch64-none-linux-android26'
+clang: error: unsupported option '-mfpu=' for target 'aarch64-none-linux-android26'
+[5/84] Building C object 3rdParty/CMakeFiles/minizip.dir/minizip/src/unzip.c.o
+FAILED: 3rdParty/CMakeFiles/minizip.dir/minizip/src/unzip.c.o 
+C:\Users\Mohammad.Elahi\AppData\Local\Android\Sdk\ndk\27.0.11902837\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Mohammad.Elahi/AppData/Local/Android/Sdk/ndk/27.0.11902837/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -I"A:/Mohammad/XRProject- Android head tracking/Samples/3rdParty/minizip/src" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -Wno-shadow -Wno-unused-command-line-argument -marm -mfpu=neon -MD -MT 3rdParty/CMakeFiles/minizip.dir/minizip/src/unzip.c.o -MF 3rdParty\CMakeFiles\minizip.dir\minizip\src\unzip.c.o.d -o 3rdParty/CMakeFiles/minizip.dir/minizip/src/unzip.c.o -c "A:/Mohammad/XRProject- Android head tracking/Samples/3rdParty/minizip/src/unzip.c"
+clang: error: unsupported option '-mno-thumb' for target 'aarch64-none-linux-android26'
+clang: error: unsupported option '-mfpu=' for target 'aarch64-none-linux-android26'
+[6/84] Building C object SampleXrFramework/CMakeFiles/app_glue.dir/280687d481d97e5c43439ef3d0ee844e/native_app_glue/android_native_app_glue.c.o
+[7/84] Building C object 3rdParty/CMakeFiles/stb.dir/stb/src/stb_image_write.c.o
+[8/84] Building C object 3rdParty/CMakeFiles/stb.dir/stb/src/stb_vorbis.c.o
+[9/84] Building C object 3rdParty/CMakeFiles/stb.dir/stb/src/stb_image.c.o
+[10/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/Fader.cpp.o
+[11/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/Input/ArmModel.cpp.o
+[12/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/SoundLimiter.cpp.o
+[13/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/ActionComponents.cpp.o
+[14/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/Input/AxisRenderer.cpp.o
+[15/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/AnimComponents.cpp.o
+[16/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/Reflection.cpp.o
+[17/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/DefaultComponent.cpp.o
+[18/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/CollisionPrimitive.cpp.o
+[19/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/VRMenuEventHandler.cpp.o
+[20/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/GazeCursor.cpp.o
+[21/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/ReflectionData.cpp.o
+[22/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/VRMenu.cpp.o
+[23/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/VRMenuMgr.cpp.o
+[24/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/GuiSys.cpp.o
+[25/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/VRMenuObject.cpp.o
+[26/84] Building CXX object SampleXrFramework/CMakeFiles/samplexrframework.dir/Src/GUI/MetaDataManager.cpp.o
+ninja: build stopped: subcommand failed.

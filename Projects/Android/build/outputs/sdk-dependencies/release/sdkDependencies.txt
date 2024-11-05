@@ -1,0 +1,30 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "org.khronos.openxr"
+    artifactId: "openxr_loader_for_android"
+    version: "1.1.41"
+  }
+  digests {
+    sha256: "\025\036\226\306\250\257\3542\'i\373\026?c\021\255\335\241\026q\237\300\035U\317\275&\216zg\260\017"
+  }
+  repo_index {
+    value: 1
+  }
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}

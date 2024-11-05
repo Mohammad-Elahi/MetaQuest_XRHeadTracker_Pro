@@ -1,6 +1,6 @@
-#Tue Sep 03 19:27:09 CEST 2024
-base.0=A\:\\Mohammad\\XRProject- Android head tracking\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=A\:\\Mohammad\\XRProject- Android head tracking\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+#Mon Nov 04 20:34:13 CET 2024
+base.0=A\:\\Mohammad\\Android\\XRProject- 4.11\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=A\:\\Mohammad\\Android\\XRProject- 4.11\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 path.0=0/classes.dex
 path.1=9/classes.dex
 renamed.0=classes.dex

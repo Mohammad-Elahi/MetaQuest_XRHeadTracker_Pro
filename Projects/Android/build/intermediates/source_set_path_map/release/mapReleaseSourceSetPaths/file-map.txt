@@ -1,0 +1,7 @@
+com.mohammadelahi.xrheadtrackerpro-pngs-0 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\generated\res\pngs\release
+com.mohammadelahi.xrheadtrackerpro-resValues-1 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\generated\res\resValues\release
+com.mohammadelahi.xrheadtrackerpro-packageReleaseResources-2 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.mohammadelahi.xrheadtrackerpro-packageReleaseResources-3 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.mohammadelahi.xrheadtrackerpro-release-4 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\merged_res\release\mergeReleaseResources
+com.mohammadelahi.xrheadtrackerpro-release-5 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\src\release\res
+com.mohammadelahi.xrheadtrackerpro-XrBodyFaceEyeSocial-6 A:\Mohammad\Android\XRProject- 23.10\Samples\XrSamples\XrBodyFaceEyeSocial\res

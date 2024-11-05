@@ -4,17 +4,18 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.oculus.xrsamples.xrbodyfaceeyesocial",
+  "applicationId": "com.mohammadelahi.xrheadtrackerpro",
   "variantName": "debug",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 1,
+      "versionCode": 2,
       "versionName": "1.0",
-      "outputFile": "XrBodyFaceEyeSocial-debug.apk"
+      "outputFile": "XR Head Tracker Pro-debug.apk"
     }
   ],
-  "elementType": "File"
+  "elementType": "File",
+  "minSdkVersionForDexing": 29
 }

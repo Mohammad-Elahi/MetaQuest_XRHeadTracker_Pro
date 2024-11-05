@@ -16,5 +16,5 @@
   --ndk-version ^
   23 ^
   --output ^
-  "C:\\Users\\MOHAMM~1.ELA\\AppData\\Local\\Temp\\agp-prefab-staging7466936977870809149\\staged-cli-output" ^
+  "C:\\Users\\MOHAMM~1.ELA\\AppData\\Local\\Temp\\agp-prefab-staging13673766294254318498\\staged-cli-output" ^
   "C:\\Users\\Mohammad.Elahi\\.gradle\\caches\\transforms-3\\d88a0c0ce9d00191a3a2fe3115bb6df7\\transformed\\openxr_loader_for_android-1.1.36\\prefab"

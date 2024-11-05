@@ -1,0 +1,4 @@
+#Fri Oct 25 17:05:40 CEST 2024
+base.0=A\:\\Mohammad\\Android\\XRProject- 23.10\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

@@ -5,6 +5,9 @@
       <SelectionState runConfigName="XrBodyFaceEyeSocial">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="XR_Head_Tracker_Pro">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>

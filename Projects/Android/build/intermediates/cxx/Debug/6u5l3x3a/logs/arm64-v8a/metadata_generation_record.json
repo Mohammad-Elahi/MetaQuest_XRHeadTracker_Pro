@@ -11,7 +11,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1362707847
+    "memoizedHashCode": -124925982
   },
   {
     "level_": 0,
@@ -25,7 +25,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1819337126
+    "memoizedHashCode": -581555261
   },
   {
     "level_": 0,
@@ -39,7 +39,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1332891878
+    "memoizedHashCode": -1724293553
   },
   {
     "level_": 0,
@@ -53,7 +53,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1208815692
+    "memoizedHashCode": -1848369739
   },
   {
     "level_": 0,
@@ -67,7 +67,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1378003725
+    "memoizedHashCode": -140221860
   },
   {
     "level_": 0,
@@ -81,7 +81,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 903439781
+    "memoizedHashCode": 2141221646
   },
   {
     "level_": 0,
@@ -95,7 +95,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1919841761
+    "memoizedHashCode": -1137343670
   },
   {
     "level_": 0,
@@ -109,7 +109,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1918877509
+    "memoizedHashCode": -681095644
   },
   {
     "level_": 0,
@@ -123,7 +123,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 318693485
+    "memoizedHashCode": 1556475350
   },
   {
     "level_": 0,
@@ -137,7 +137,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -769392575
+    "memoizedHashCode": 468389290
   },
   {
     "level_": 0,
@@ -151,7 +151,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1916855034
+    "memoizedHashCode": -679073169
   },
   {
     "level_": 0,
@@ -165,7 +165,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 841020228
+    "memoizedHashCode": 2078802093
   },
   {
     "level_": 0,
@@ -179,7 +179,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 542764824
+    "memoizedHashCode": 1780546689
   },
   {
     "level_": 0,
@@ -193,11 +193,11 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1241649659
+    "memoizedHashCode": -3867794
   },
   {
     "level_": 0,
-    "message_": "@echo off\n\"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\Mohammad.Elahi\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.0.0\\\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\\\cli-2.0.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  cmake ^\n  --platform ^\n  android ^\n  --abi ^\n  arm64-v8a ^\n  --os-version ^\n  26 ^\n  --stl ^\n  c++_static ^\n  --ndk-version ^\n  23 ^\n  --output ^\n  \"C:\\\\Users\\\\MOHAMM~1.ELA\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging14344660186758921353\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\Mohammad.Elahi\\\\.gradle\\\\caches\\\\transforms-3\\\\d88a0c0ce9d00191a3a2fe3115bb6df7\\\\transformed\\\\openxr_loader_for_android-1.1.36\\\\prefab\"\n",
+    "message_": "@echo off\n\"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\Mohammad.Elahi\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.0.0\\\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\\\cli-2.0.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  cmake ^\n  --platform ^\n  android ^\n  --abi ^\n  arm64-v8a ^\n  --os-version ^\n  26 ^\n  --stl ^\n  c++_static ^\n  --ndk-version ^\n  23 ^\n  --output ^\n  \"C:\\\\Users\\\\MOHAMM~1.ELA\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging11490376017684878314\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\Mohammad.Elahi\\\\.gradle\\\\caches\\\\transforms-3\\\\d88a0c0ce9d00191a3a2fe3115bb6df7\\\\transformed\\\\openxr_loader_for_android-1.1.36\\\\prefab\"\n",
     "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
     "tag_": "debug|arm64-v8a",
     "diagnosticCode_": 0,
@@ -207,7 +207,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -2114045292
+    "memoizedHashCode": 440744049
   },
   {
     "level_": 0,
@@ -221,7 +221,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1474065042
+    "memoizedHashCode": -236283177
   },
   {
     "level_": 0,
@@ -235,7 +235,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1118553300
+    "memoizedHashCode": 119228565
   },
   {
     "level_": 0,
@@ -249,7 +249,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1564987307
+    "memoizedHashCode": -1492198124
   },
   {
     "level_": 0,
@@ -263,7 +263,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -595074592
+    "memoizedHashCode": 642707273
   },
   {
     "level_": 0,
@@ -277,7 +277,35 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -132824187
+    "memoizedHashCode": 1104957678
+  },
+  {
+    "level_": 0,
+    "message_": "deleted unexpected build output A:\\Mohammad\\XRProject- Android head tracking\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\build\\intermediates\\cxx\\Debug\\6u5l3x3a\\obj\\arm64-v8a\\libktx.so in incremental regenerate",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1991259396
+  },
+  {
+    "level_": 0,
+    "message_": "deleted unexpected build output A:\\Mohammad\\XRProject- Android head tracking\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\build\\intermediates\\cxx\\Debug\\6u5l3x3a\\obj\\arm64-v8a\\libopenxr_loader.so in incremental regenerate",
+    "file_": "A:\\Mohammad\\XRProject- Android head tracking\\Samples\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1476976217
   },
   {
     "level_": 0,
@@ -291,6 +319,6 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1805248897
+    "memoizedHashCode": -1251936534
   }
 ]

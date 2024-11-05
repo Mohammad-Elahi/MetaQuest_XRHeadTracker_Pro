@@ -1,0 +1,14 @@
+CMake Warning in XrSamples/XrHandsAndControllers/CMakeLists.txt:
+  The object file directory
+
+    A:/Mohammad/XRProject- Android head tracking/Samples/XrSamples/XrBodyFaceEyeSocial/Projects/Android/.cxx/RelWithDebInfo/525z326u/arm64-v8a/XrSamples/XrHandsAndControllers/CMakeFiles/xrsamples_xrhands_and_controllers.dir/./
+
+  has 222 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    Src/EnvironmentRenderer.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+

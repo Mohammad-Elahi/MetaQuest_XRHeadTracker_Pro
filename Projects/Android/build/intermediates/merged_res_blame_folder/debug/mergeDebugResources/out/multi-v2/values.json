@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mohammadelahi.xrheadtrackerpro-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "A:\\Mohammad\\Android\\XRProject- 4.11\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endColumns": "56",
+                        "endOffsets": "164"
+                    }
+                },
+                {
+                    "source": "A:\\Mohammad\\Android\\XRProject- 4.11\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}
