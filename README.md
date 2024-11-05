@@ -12,8 +12,7 @@ This app collects head-tracking information while allowing users to maintain awa
 3. CSV data export
 4. Voice Annotation
 
-For technical support or inquiries:
-mohammad.elahi@mailbox.tu-dresden.de
+
 
 ## Author
 
