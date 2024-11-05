@@ -17,7 +17,7 @@ mohammad.elahi@mailbox.tu-dresden.de
 
 ## Author
 
-Mohammad Elahi, Vodafone Chair for Mobile Communications Systems at TU Dresden, mohammad.elahi@mailbox.tu-dresden.de
+Mohammad Elahi, Research Assistant at Vodafone Chair for Mobile Communications Systems, TU Dresden, mohammad.elahi@mailbox.tu-dresden.de
 
 ## How to Cite
 
