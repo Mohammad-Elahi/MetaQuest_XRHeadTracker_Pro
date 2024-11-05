@@ -13,11 +13,11 @@ Voice Annotation
 For technical support or inquiries:
 mohammad.elahi@mailbox.tu-dresden.de
 
-##Author
+## Author
 
 Mohammad Elahi, Vodafone Chair for Mobile Communications Systems at TU Dresden, mohammad.elahi@mailbox.tu-dresden.de
 
-##How to Cite
+## How to Cite
 
 If you use this software in your research, please cite it as follows:
 Elahi, M. (2024). XR Head Tracker Pro: A professional research tool for head-tracking data collection with Meta Quest headsets. GitHub. https://github.com/Mohammad-Elahi/MetaQuest_XRHeadTracker_Pro
