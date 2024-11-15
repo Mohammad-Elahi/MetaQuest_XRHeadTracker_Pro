@@ -31,7 +31,6 @@ For BibTeX:
   title = {XR Head Tracker Pro: A professional research tool for head-tracking data collection with Meta Quest headsets},
   year = {2024},
   publisher = {GitHub},
-  journal = {GitHub repository},
   url = {https://github.com/Mohammad-Elahi/MetaQuest_XRHeadTracker_Pro},
   institution = {Vodafone Chair for Mobile Communications Systems, TU Dresden}
 }
