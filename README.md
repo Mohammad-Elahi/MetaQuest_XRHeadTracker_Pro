@@ -14,7 +14,7 @@ Now available on the [Meta Quest Store](https://www.meta.com/experiences/2811139
 1. Real-time head tracking
 2. Passthrough visualization
 3. CSV data export
-4. Voice Annotation
+
 
 
 
