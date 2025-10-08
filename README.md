@@ -15,7 +15,7 @@ Now available on the [Meta Quest Store](https://www.meta.com/experiences/2811139
 2. Passthrough visualization
 3. CSV data export
 
-
+Note: After exiting the app, you must restart the headset. Once restarted, you can find the CSV file in the Download folder.
 
 
 ## Author
