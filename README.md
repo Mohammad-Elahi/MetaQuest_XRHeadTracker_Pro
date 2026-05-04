@@ -9,6 +9,10 @@ This app collects head-tracking information while allowing users to maintain awa
 
 Now available on the [Meta Quest Store](https://www.meta.com/experiences/28111394221781002/)
 
+## Demo
+[ ](https://github.com/user-attachments/assets/79677d83-a6c4-4a90-9a81-dc1a51e69716)
+
+
 ## Key Features:
 1. Real-time head tracking
 2. Passthrough visualization
@@ -16,8 +20,7 @@ Now available on the [Meta Quest Store](https://www.meta.com/experiences/2811139
 
 Note: After exiting the app, you must restart the headset. Once restarted, you can find the CSV file in the Download folder.
 
-## Demo
-[ ](https://github.com/user-attachments/assets/79677d83-a6c4-4a90-9a81-dc1a51e69716)
+
 
 ## Author
 
