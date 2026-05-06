@@ -31,7 +31,7 @@ Mohammad Elahi, Research Assistant at Vodafone Chair for Mobile Communications S
 ## How to Cite
 
 If you use this software in your research, please cite it as follows:
-Elahi, M. (2024). XR Head Tracker Pro: A professional research tool for head-tracking data collection with Meta Quest headsets. GitHub. https://github.com/Mohammad-Elahi/MetaQuest_XRHeadTracker_Pro
+Elahi, M. (2024). XR Head Tracker Pro: A professional research tool for head-tracking data collection with Meta Quest headsets. GitHub: https://github.com/Mohammad-Elahi/XR-Head-Tracker-Pro
 
 For BibTeX:
 
