@@ -7,7 +7,7 @@ This Android NDK C++ application leverages the [Meta OpenXR SDK](https://develop
 
 This app collects head-tracking information while allowing users to maintain awareness of their physical surroundings through the Quest's Passthrough technology. The application stores motion data as a CSV file directly on the device, providing researchers and developers with easy access to movement analysis while maintaining the visual context of the real-world environment.
 
-Now available on the [Meta Quest Store](https://www.meta.com/experiences/28111394221781002/)
+**Now available on the [Meta Quest Store](https://www.meta.com/experiences/28111394221781002/)**
 
 ## Demo
 https://github.com/user-attachments/assets/55aaed45-5ab6-4722-95a9-365fe2d8367e
